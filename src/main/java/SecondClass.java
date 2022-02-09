@@ -1,6 +1,6 @@
 public class SecondClass {
 
-    public void getPropertiesSecondClass(){
+   public void getPropertiesSecondClass(){
 
     }
 }
