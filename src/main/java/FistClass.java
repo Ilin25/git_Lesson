@@ -1,6 +1,6 @@
 public class FistClass {
 
-    public void getPropertyFirstClass(){
+    public void getPropertyFirstClass(String path){
 
     }
 
